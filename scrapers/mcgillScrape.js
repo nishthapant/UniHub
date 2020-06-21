@@ -47,6 +47,7 @@ async function scrape(url){
 //           1. Course Title
 //           2. Course href
 //           3. Subject of that course
+// Returns: Nothing
 async function getAllCourses(pages){
     
     for(let pg=0;pg<=pages;pg++){
