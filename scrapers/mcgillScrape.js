@@ -1,15 +1,22 @@
+// require axios, cheerio, fs libraries
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs') ;
 
+// require site configuration of university
 const config = require("./config");
 
+// require useful constants
 const root = config.mcgill.ROOT;
 const div = config.mcgill.DIV;
+const subDiv = config.mcgill.SUBJECT_DIV;
 const slug = config.mcgill.SLUG;
 const pages = config.mcgill.PAGES;
 const file = config.mcgill.FILE;
 
+
+// Function: To scrape a given url based on provided configuration
+// Returns: true if successfull, throws error if failed and tries again
 async function scrape(url){
     while(true){
         try{
@@ -17,12 +24,15 @@ async function scrape(url){
             let $ = cheerio.load(pageHTML.data);
 
             let courseObjects = $(div).children();
-            courseObjects.find('a').each(function(){
+
+            courseObjects.each(function(){
                 let course = {};
-                course.title = $(this).text();
-                course.url = root+$(this).attr('href');
+                course.title = $($(this).find('a')).text();
+                course.url =  root + $($(this).find('a')).attr('href');
+                course.subject =  $($(this).find(subDiv)).text();
                 catalogue.push(course);
             })
+
             return true;
         }
         catch(err){
@@ -32,6 +42,11 @@ async function scrape(url){
     
 };
 
+
+// Function: To scrape a url and get the following information about all courses in the university:
+//           1. Course Title
+//           2. Course href
+//           3. Subject of that course
 async function getAllCourses(pages){
     
     for(let pg=0;pg<=pages;pg++){
@@ -42,5 +57,11 @@ async function getAllCourses(pages){
    }
 }
 
+
+// initialize a catalogue to collect information
+// call scraper function
 let catalogue = [];
 getAllCourses(pages);
+
+
+// getAllCourses(1);
