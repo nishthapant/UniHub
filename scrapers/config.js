@@ -5,8 +5,7 @@ const config = {
         DIV : '#block-system-main > div > div > div > div.view-content',
         SUBJECT_DIV: 'span.views-field.views-field-field-dept-code  span',
         FILE : 'mcgill.txt',
-        // PAGES : 541
-        PAGES: 1
+        PAGES : 541
     },
 
     uoft:{
