@@ -1,0 +1,1394 @@
+[
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NURS",
+        "subject": "Nursing"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SC%20INF",
+        "subject": "Sciences infirmi&#xE8;res"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CSD",
+        "subject": "Communication Sciences and Disorders"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=OCCTH",
+        "subject": "Occupational Therapy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PTHER",
+        "subject": "Physical Therapy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=REHAB",
+        "subject": "Rehabilitation Medicine"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SPA",
+        "subject": "Speech Pathology and Audiology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NS",
+        "subject": "Native Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AFHE",
+        "subject": "Agriculture, Forestry, and Home Economics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AFNS",
+        "subject": "Agricultural, Food and Nutritional Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ALES",
+        "subject": "Agricultural, Life and Environmental Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AN%20SC",
+        "subject": "Animal Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AREC",
+        "subject": "Agricultural and Resource Economics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BIOEN",
+        "subject": "Bioresource Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENCS",
+        "subject": "Environmental and Conservation Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FOR",
+        "subject": "Forest Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FOREC",
+        "subject": "Forest Economics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HECOL",
+        "subject": "Human Ecology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NU%20FS",
+        "subject": "Nutrition and Food Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NUTR",
+        "subject": "Nutrition"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PL%20SC",
+        "subject": "Plant Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=R%20SOC",
+        "subject": "Rural Sociology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=REN%20R",
+        "subject": "Renewable Resources"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=UNIV",
+        "subject": "University"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CH%20E",
+        "subject": "Chemical Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CIV%20E",
+        "subject": "Civil Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CME",
+        "subject": "Chemical and Materials Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CMPE",
+        "subject": "Computer Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=E%20E",
+        "subject": "Electrical Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ECE",
+        "subject": "Electrical and Computer Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENCMP",
+        "subject": "Engineering, Computer"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENG%20M",
+        "subject": "Engineering Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENGG",
+        "subject": "Engineering, General"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENV%20E",
+        "subject": "Environmental Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MAT%20E",
+        "subject": "Materials Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MEC%20E",
+        "subject": "Mechanical Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MIN%20E",
+        "subject": "Mining Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PET%20E",
+        "subject": "Petroleum Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ACCTG",
+        "subject": "Accounting"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=B%20LAW",
+        "subject": "Business Law"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BUEC",
+        "subject": "Business Economics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BUS",
+        "subject": "Business"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FIN",
+        "subject": "Finance"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=IND%20R",
+        "subject": "Industrial Relations"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MARK",
+        "subject": "Marketing"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MGTSC",
+        "subject": "Management Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MIS",
+        "subject": "Management Information Systems"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=OM",
+        "subject": "Operations Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ORG%20A",
+        "subject": "Organizational Analysis"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SMO",
+        "subject": "Strategic Management and Organization"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXSPH",
+        "subject": "CE - School of Public Health"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HPS",
+        "subject": "Health Promotion Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHS",
+        "subject": "Public Health Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SPH",
+        "subject": "School of Public Health"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ADMI",
+        "subject": "Administration"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ADRAM",
+        "subject": "Art dramatique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ALS",
+        "subject": "Anglais langue seconde"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ANATE",
+        "subject": "Anatomie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ANGL",
+        "subject": "Anglais"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ANTHE",
+        "subject": "Anthropologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BIOCM",
+        "subject": "Biochimie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BIOLE",
+        "subject": "Biologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BOTQ",
+        "subject": "Botanique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CA%20FR",
+        "subject": "Canadien-fran&#xE7;ais"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CEDUL",
+        "subject": "FSJ -  Certificat &#xC9;ducation Leadership"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CHIM",
+        "subject": "Chimie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CU%20ME",
+        "subject": "Curriculum et m&#xE9;thodologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ECLSS",
+        "subject": "Etudes classiques"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ECONE",
+        "subject": "Economie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDU%20E",
+        "subject": "Education - Enseignement"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDU%20F",
+        "subject": "Education - Fondements"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDU%20M",
+        "subject": "Education - Methodologie et Curriculum"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDU%20P",
+        "subject": "Education - Psychologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDU%20S",
+        "subject": "Education - Stage"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDUC",
+        "subject": "Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EPE",
+        "subject": "&#xC9;ducation &#xE0; la petite enfance"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ESPA",
+        "subject": "Espagnol"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ET%20RE",
+        "subject": "Etudes de la religion"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ETCAN",
+        "subject": "Etudes canadiennes"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ETIN",
+        "subject": "Etudes interdisciplinaires"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FO%20ED",
+        "subject": "Fondements de l&apos;&#xE9;ducation"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FR%20ED",
+        "subject": "French for Educators / Fran&#xE7;ais pour &#xE9;ducateurs"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FRANC",
+        "subject": "Fran&#xE7;ais"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GENEQ",
+        "subject": "FSJ - G&#xE9;n&#xE9;tique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GTOTC",
+        "subject": "CCA - Gestion touristique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HISTE",
+        "subject": "Histoire"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HUME",
+        "subject": "Humanit&#xE9;s"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=IMINE",
+        "subject": "Immunologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=INFOR",
+        "subject": "Informatique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LINGQ",
+        "subject": "Linguistique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=M%20EDU",
+        "subject": "Ma&#xEE;trise &#xE8;s sciences de l&apos;&#xE9;ducation"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MAFSJ",
+        "subject": "FSJ - Maitrise en Art Facult&#xE9; Saint-Jean"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MATHQ",
+        "subject": "Math&#xE9;matiques"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MICRE",
+        "subject": "Microbiologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MUSIQ",
+        "subject": "Musique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHILE",
+        "subject": "Philosophie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHYSE",
+        "subject": "Physiologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHYSQ",
+        "subject": "Physique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PS%20ED",
+        "subject": "Psychologie de l&apos;&#xE9;ducation"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PSSTC",
+        "subject": "CCA - Pr&#xE9;pos&#xE9; aux soins de sant&#xE9;"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PSYCE",
+        "subject": "Psychologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SC%20PO",
+        "subject": "Science politique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SCSOC",
+        "subject": "Sciences sociales"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SCSP",
+        "subject": "Sciences socio-politiques"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SCTA",
+        "subject": "Sciences de la Terre et de l&apos;atmosph&#xE8;re"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SOCIE",
+        "subject": "Sociologie"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=STATQ",
+        "subject": "Statistique"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=TAAFI",
+        "subject": "CCA - Finance"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=TAAMG",
+        "subject": "Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=TAARH",
+        "subject": "Ressources humaines"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=TAATC",
+        "subject": "Tronc commun"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ANAES",
+        "subject": "Anaesthesia"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ANAT",
+        "subject": "Anatomy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BIOCH",
+        "subject": "Biochemistry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BME",
+        "subject": "Biomedical Engineering"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CELL",
+        "subject": "Cell Biology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=D%20HYG",
+        "subject": "Dental Hygiene"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DDS",
+        "subject": "Dentistry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DENT",
+        "subject": "Dentistry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DMED",
+        "subject": "Dentistry/Medicine"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EE%20BE",
+        "subject": "Electrical and Computer Engineering/Biomedical Eng"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=F%20MED",
+        "subject": "Family Medicine"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LABMP",
+        "subject": "Laboratory Medicine and Pathology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MDGEN",
+        "subject": "Medical Genetics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MED",
+        "subject": "Medicine"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MLSCI",
+        "subject": "Medical Laboratory Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MMI",
+        "subject": "Medical Microbiology and Immunology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NEURO",
+        "subject": "Neuroscience (Centre for)"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=OB%20GY",
+        "subject": "Obstetrics and Gynaecology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=OBIOL",
+        "subject": "Oral Biology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ONCOL",
+        "subject": "Oncology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=OPHTH",
+        "subject": "Ophthalmology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PAED",
+        "subject": "Paediatrics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PGDE",
+        "subject": "Postgraduate Dental Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PGME",
+        "subject": "Postgraduate Medical Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHYSL",
+        "subject": "Physiology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PMCOL",
+        "subject": "Pharmacology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PSYCI",
+        "subject": "Psychiatry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=RADDI",
+        "subject": "Radiology and Diagnostic Imaging"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=RADTH",
+        "subject": "Radiation Therapy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SURG",
+        "subject": "Surgery"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LAW",
+        "subject": "Law"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUACC",
+        "subject": "Augustana Faculty - Accounting"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUART",
+        "subject": "Augustana Faculty - Art"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUBIO",
+        "subject": "Augustana Faculty - Biology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUCHE",
+        "subject": "Augustana Faculty - Chemistry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUCLA",
+        "subject": "Augustana Faculty - Classical Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUCRI",
+        "subject": "Augustana Faculty - Crime and Community"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUCSC",
+        "subject": "Augustana Faculty - Computing Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUCSL",
+        "subject": "Augustana Faculty - Community Service Learning"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUDRA",
+        "subject": "Augustana Faculty - Drama"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUEAP",
+        "subject": "Augustana Faculty - English for Academic Purposes"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUECO",
+        "subject": "Augustana Faculty - Economics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUEDC",
+        "subject": "Augustana Faculty - Educational Computing"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUEFX",
+        "subject": "Augustana Faculty - Education Field Experience"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUENG",
+        "subject": "Augustana Faculty - English"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUENV",
+        "subject": "Augustana Faculty - Environmental Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUEPS",
+        "subject": "Augustana Faculty - Educational Psychology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUFAR",
+        "subject": "Fine Arts Option"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUFRE",
+        "subject": "Augustana Faculty - French"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUGDS",
+        "subject": "Augustana Faculty - Global and Development Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUGEO",
+        "subject": "Augustana Faculty - Geography"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUGER",
+        "subject": "Augustana Faculty - German"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUGRE",
+        "subject": "Augustana Faculty - Greek"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUHIS",
+        "subject": "Augustana Faculty - History"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUHUM",
+        "subject": "Augustana Faculty - Humanities"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUIDS",
+        "subject": "Augustana Faculty - Interdisciplinary Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUIND",
+        "subject": "Augustana Faculty - Indigenous Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AULAN",
+        "subject": "Augustana Faculty - Language Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AULAT",
+        "subject": "Augustana Faculty - Latin"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AULIT",
+        "subject": "Augustana Faculty - World Literatures"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUMAT",
+        "subject": "Augustana Faculty - Mathematics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUMGT",
+        "subject": "Augustana Faculty - Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUMUS",
+        "subject": "Augustana Faculty - Music"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUPAC",
+        "subject": "Augustana Faculty - Physical Activity"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUPED",
+        "subject": "Augustana Faculty - Physical Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUPHI",
+        "subject": "Augustana Faculty - Philosophy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUPHY",
+        "subject": "Augustana Faculty - Physics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUPOL",
+        "subject": "Augustana Faculty - Political Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUPSY",
+        "subject": "Augustana Faculty - Psychology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUREL",
+        "subject": "Augustana Faculty - Religion"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUSCA",
+        "subject": "Augustana Faculty - Scandinavian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUSCI",
+        "subject": "Augustana Faculty - Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUSOC",
+        "subject": "Augustana Faculty - Sociology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUSPA",
+        "subject": "Augustana Faculty - Spanish"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUSSC",
+        "subject": "Augustana Faculty - Social Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AUSTA",
+        "subject": "Augustana Faculty - Statistics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=COMM",
+        "subject": "Communications and Technology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EAP",
+        "subject": "English for Academic Purposes"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXACUP",
+        "subject": "Extension - Medical Acupuncture"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXAGC",
+        "subject": "Extension - Applied Geostatistics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXAHP",
+        "subject": "Extension - Aboriginal Health Promotion"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXALES",
+        "subject": "CE - Agricultural, Life &amp; Environmental Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXARE",
+        "subject": "Extension - Aboriginal Relations Engagement"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXART",
+        "subject": "Extension - Fine Arts"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXBA",
+        "subject": "Extension - Business Analysis"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXCACE",
+        "subject": "Extension - Adult &amp; Continuing Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXCES",
+        "subject": "Extension - Community Engagement"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXCPE",
+        "subject": "Extension - Continuing and Professional Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXCST",
+        "subject": "Extension - Construction Administration"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXELP",
+        "subject": "Extension - English Language Program"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXERM",
+        "subject": "Extension - Environmental Resource Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXFOMD",
+        "subject": "CE - Faculty of Medicine and Dentistry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXGEN",
+        "subject": "Extension - General Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXGL",
+        "subject": "Extension - Global Leadership"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXIAPP",
+        "subject": "Extension - Info Access &amp; Protection of Privacy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXIIC",
+        "subject": "Extension - Insuranced Institute of Canada"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXLDR",
+        "subject": "Extension - Leadership"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXLGP",
+        "subject": "Extension - Local Government"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXLUP",
+        "subject": "Extension - Applied Land Use Planning"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXMGT",
+        "subject": "Extension - Business Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXNUR",
+        "subject": "Extension - Nursing"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXOPT",
+        "subject": "Extension Elective"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXOS",
+        "subject": "Extension - Occupational Health &amp; Safety"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXPMAC",
+        "subject": "Extension - Purchasing Management"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXRI",
+        "subject": "Extension - Residential Interiors"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXSCMA",
+        "subject": ""
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXSDP",
+        "subject": "Extension - Supervisory Development"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXSLC",
+        "subject": "Extension - Spanish"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXSM",
+        "subject": "Extension - Social Media"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXT",
+        "subject": "Extension"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXTL",
+        "subject": "Extension - Teaching in Learning"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MACE",
+        "subject": "Community Engagement"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CHRTP",
+        "subject": "Christian Theology at St Stephen&apos;s College"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ABROD",
+        "subject": "Abroad, Study Term"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXCH",
+        "subject": "Exchange Program"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDAE",
+        "subject": "Education - Adult"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDBU",
+        "subject": "Education - Business"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDCT",
+        "subject": "Education - Career Technology Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDEL",
+        "subject": "Education - Elementary"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDES",
+        "subject": "Education - Elementary and Secondary"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDFX",
+        "subject": "Education - Field Experience"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDHS",
+        "subject": "Master of Education in Health Science Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDIT",
+        "subject": "Education - Instructional Technology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDPS",
+        "subject": "Education - Policy Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDPY",
+        "subject": "Education - Psychology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDSE",
+        "subject": "Education - Secondary"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EDU",
+        "subject": "Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LIS",
+        "subject": "Library and Information Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ANTHR",
+        "subject": "Anthropology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ARAB",
+        "subject": "Arabic"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ART",
+        "subject": "Art"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ART%20H",
+        "subject": "Art History"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ASL",
+        "subject": "American Sign Language"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=C%20LIT",
+        "subject": "Comparative Literature"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CHINA",
+        "subject": "Chinese"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CLASS",
+        "subject": "Classics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CSL",
+        "subject": "Community Service-Learning"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DANSK",
+        "subject": "Danish"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DES",
+        "subject": "Design"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DH",
+        "subject": "Digital Humanities"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DRAMA",
+        "subject": "Drama"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EASIA",
+        "subject": "East Asian Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ECON",
+        "subject": "Economics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENGL",
+        "subject": "English"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FREN",
+        "subject": "French Language and Literature"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=FS",
+        "subject": "Film Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GERM",
+        "subject": "German"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GREEK",
+        "subject": "Greek"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GSJ",
+        "subject": "Gender and Social Justice"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HADVC",
+        "subject": "History of Art, Design, and Visual Culture"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HEBR",
+        "subject": "Hebrew"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HGP",
+        "subject": "Human Geography and Planning"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HINDI",
+        "subject": "Hindi"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HIST",
+        "subject": "History"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HUCO",
+        "subject": "Humanities Computing"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HUNG",
+        "subject": "Hungarian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=INT%20D",
+        "subject": "Interdisciplinary Undergraduate &amp; Graduate Courses"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ITAL",
+        "subject": "Italian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=JAPAN",
+        "subject": "Japanese"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=KOREA",
+        "subject": "Korean"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LA%20ST",
+        "subject": "Latin American Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LATIN",
+        "subject": "Latin"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=LING",
+        "subject": "Linguistics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MEAS",
+        "subject": "Middle Eastern and African Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MLCS",
+        "subject": "Modern Languages and Cultural Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MST",
+        "subject": "Media Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MUSIC",
+        "subject": "Music"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NORSE",
+        "subject": "Old Norse"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=NORW",
+        "subject": "Norwegian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PERS",
+        "subject": "Persian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHIL",
+        "subject": "Philosophy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=POL%20S",
+        "subject": "Political Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=POLSH",
+        "subject": "Polish"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PORT",
+        "subject": "Portuguese"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PUNJ",
+        "subject": "Punjabi"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=RELIG",
+        "subject": "Religious Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=RUSS",
+        "subject": "Russian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SANSK",
+        "subject": "Sanskrit"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SCAND",
+        "subject": "Scandinavian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SLAV",
+        "subject": "Slavic and East European Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SOC",
+        "subject": "Sociology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SPAN",
+        "subject": "Spanish"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=STS",
+        "subject": "Science, Technology, and Society"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SWAH",
+        "subject": "Swahili"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SWED",
+        "subject": "Swedish"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=T%20DES",
+        "subject": "Theatre Design"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=UKR",
+        "subject": "Ukrainian"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=W%20ST",
+        "subject": "Women&apos;s Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=WGS",
+        "subject": "Women&apos;s and Gender Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=WRITE",
+        "subject": "Writing (Creative Writing)"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=WRS",
+        "subject": "Writing Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=AGRMT",
+        "subject": "Agreement Formal (Registration)"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=M%20REG",
+        "subject": "Maintaining Registration"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PROJ",
+        "subject": "Project (Non-Thesis)"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=RSCH",
+        "subject": "Research"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=THES",
+        "subject": "Thesis"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CHRTC",
+        "subject": "Christian Theology at St Joseph&apos;s College"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ASTRO",
+        "subject": "Astronomy"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BIOIN",
+        "subject": "Bioinformatics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BIOL",
+        "subject": "Biology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=BOT",
+        "subject": "Botany"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CHEM",
+        "subject": "Chemistry"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=CMPUT",
+        "subject": "Computing Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EAS",
+        "subject": "Earth and Atmospheric Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EN%20PH",
+        "subject": "Engineering Physics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENT",
+        "subject": "Entomology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ENVPS",
+        "subject": "Environmental Physical Sciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=EXSC",
+        "subject": "CE - Faculty of Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GENET",
+        "subject": "Genetics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=GEOPH",
+        "subject": "Geophysics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=IMIN",
+        "subject": "Immunology and Infection"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=IPG",
+        "subject": "Integrated Petroleum Geosciences"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MA%20PH",
+        "subject": "Mathematical Physics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MA%20SC",
+        "subject": "Marine Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MATH",
+        "subject": "Mathematics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MICRB",
+        "subject": "Microbiology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MINT",
+        "subject": "Master of Internetworking"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=MM",
+        "subject": "Multimedia"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PALEO",
+        "subject": "Paleontology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHYS",
+        "subject": "Physics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PLAN",
+        "subject": "Urban and Regional Planning"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PSYCO",
+        "subject": "Psychology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=SCI",
+        "subject": "Science"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=STAT",
+        "subject": "Statistics"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=WKEXP",
+        "subject": "Work Experience"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=ZOOL",
+        "subject": "Zoology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DAC",
+        "subject": "Dance Activity"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=DANCE",
+        "subject": "Dance"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=HE%20ED",
+        "subject": "Health Education"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=KIN",
+        "subject": "Kinesiology"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=KRLS",
+        "subject": "Kinesiology, Recreation, Leisure and Sport"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=KSR",
+        "subject": "Kinesiology, Sport, and Recreation"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PAC",
+        "subject": "Physical Activity"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PEDS",
+        "subject": "Physical Education and Sport"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PERLS",
+        "subject": "Physical Education, Recreation and Leisure Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=RLS",
+        "subject": "Recreation and Leisure Studies"
+    },
+    {
+        "url": "https://catalogue.ualberta.ca/Course/Subject?subjectCode=PHARM",
+        "subject": "Pharmacy"
+    }
+]

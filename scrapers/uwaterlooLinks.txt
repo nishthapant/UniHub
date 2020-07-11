@@ -1,0 +1,482 @@
+[
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/AFM",
+        "subject": "Accounting "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ACTSC",
+        "subject": "Actuarial Science "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ASL",
+        "subject": "American Sign Language"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ANTH",
+        "subject": "Anthropology "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/AHS",
+        "subject": "Applied Health Sciences"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/APPLS",
+        "subject": "Applied Language Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/AMATH",
+        "subject": "Applied Mathematics"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ARABIC",
+        "subject": "Arabic"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/AE",
+        "subject": "Architectural Engineering"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ARCH",
+        "subject": "Architecture "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ARTS",
+        "subject": "Arts "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ARBUS",
+        "subject": "Arts and Business"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/AVIA",
+        "subject": "Aviation"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/BIOL",
+        "subject": "Biology"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/BME",
+        "subject": "Biomedical Engineering"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/BASE",
+        "subject": "Bridge to Academic Success in English"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/BUS",
+        "subject": "Business (Wilfrid Laurier University) "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/BET",
+        "subject": "Business, Entrepreneurship and Technology"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CDNST",
+        "subject": "Canadian Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CHE",
+        "subject": "Chemical Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CHEM",
+        "subject": "Chemistry "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CHINA",
+        "subject": "Chinese "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CMW",
+        "subject": "Church Music and Worship "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CIVE",
+        "subject": "Civil Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CLAS",
+        "subject": "Classical Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/COGSCI",
+        "subject": "Cognitive Science"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CO",
+        "subject": "Combinatorics and Optimization "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/COMM",
+        "subject": "Commerce"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CS",
+        "subject": "Computer Science "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/COOP",
+        "subject": "Co-operative Work Term "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CROAT",
+        "subject": "Croatian "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/CI",
+        "subject": "Cultural Identities"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/DAC",
+        "subject": "Digital Arts Communication "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/DUTCH",
+        "subject": "Dutch "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/EARTH",
+        "subject": "Earth Sciences "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/EASIA",
+        "subject": "East Asian "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ECON",
+        "subject": "Economics "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ECE",
+        "subject": "Electrical and Computer Engineering"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ENGL",
+        "subject": "English "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/EMLS",
+        "subject": "English for Multilingual Speakers"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ENBUS",
+        "subject": "Environment and Business"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ERS",
+        "subject": "Environment, Resources and Sustainability"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ENVE",
+        "subject": "Environmental Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ENVS",
+        "subject": "Environmental Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/FINE",
+        "subject": "Fine Arts "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/FR",
+        "subject": "French Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GSJ",
+        "subject": "Gender and Social Justice"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GENE",
+        "subject": "General Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GEOG",
+        "subject": "Geography and Environmental Management"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GEOE",
+        "subject": "Geological Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GER",
+        "subject": "German "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GERON",
+        "subject": "Gerontology "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GBDA",
+        "subject": "Global Business and Digital Arts"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/GRK",
+        "subject": "Greek "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/HLTH",
+        "subject": "Health"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/HIST",
+        "subject": "History"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/HRM",
+        "subject": "Human Resources Management"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/HRTS",
+        "subject": "Human Rights"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/HUMSC",
+        "subject": "Human Sciences "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/INDG",
+        "subject": "Indigenous Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/INDEV",
+        "subject": "International Development"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/INTST",
+        "subject": "International Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ITAL",
+        "subject": "Italian "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ITALST",
+        "subject": "Italian Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/JAPAN",
+        "subject": "Japanese "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/JS",
+        "subject": "Jewish Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/KIN",
+        "subject": "Kinesiology "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/INTEG",
+        "subject": "Knowledge Integration"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/KOREA",
+        "subject": "Korean "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/LAT",
+        "subject": "Latin "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/LS",
+        "subject": "Legal Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MGMT",
+        "subject": "Management"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MSCI",
+        "subject": "Management Sciences "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MNS",
+        "subject": "Materials"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MATBUS",
+        "subject": "Mathematical Business"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MATH",
+        "subject": "Mathematics "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MTHEL",
+        "subject": "Mathematics Electives "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/ME",
+        "subject": "Mechanical Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MTE",
+        "subject": "Mechatronics Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MEDVL",
+        "subject": "Medieval Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MENN",
+        "subject": "Mennonite Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MOHAWK",
+        "subject": "Mohawk "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/MUSIC",
+        "subject": "Music "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/NE",
+        "subject": "Nanotechnology Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/OPTOM",
+        "subject": "Optometry "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PACS",
+        "subject": "Peace and Conflict Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PHARM",
+        "subject": "Pharmacy "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PHIL",
+        "subject": "Philosophy "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PHYS",
+        "subject": "Physics "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PLAN",
+        "subject": "Planning "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PSCI",
+        "subject": "Political Science "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PORT",
+        "subject": "Portuguese "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PD",
+        "subject": "Professional Development "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PDARCH",
+        "subject": "Professional Development for Architecture Students"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PDPHRM",
+        "subject": "Professional Development for Pharmacy Students"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PSYCH",
+        "subject": "Psychology "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/PMATH",
+        "subject": "Pure Mathematics "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/REC",
+        "subject": "Recreation and Leisure Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/RS",
+        "subject": "Religious Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/RUSS",
+        "subject": "Russian "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/REES",
+        "subject": "Russian and East European Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SCI",
+        "subject": "Science "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SCBUS",
+        "subject": "Science and Business "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SMF",
+        "subject": "Sexuality, Marriage, and Family Studies "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SDS",
+        "subject": "Social Development Studies"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SVENT",
+        "subject": "Social Venture Entrepreneur"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SOCWK",
+        "subject": "Social Work (Social Development Studies) "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SWREN",
+        "subject": "Social Work (Bachelor of Social Work) "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/STV",
+        "subject": "Society, Technology and Values "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SOC",
+        "subject": "Sociology"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SE",
+        "subject": "Software Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SPAN",
+        "subject": "Spanish "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SPCOM",
+        "subject": "Speech Communication "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/STAT",
+        "subject": "Statistics "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SI",
+        "subject": "Studies in Islam"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/SYDE",
+        "subject": "Systems Design Engineering "
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/THPERF",
+        "subject": "Theatre and Performance"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/UNIV",
+        "subject": "University"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/VCULT",
+        "subject": "Visual Culture"
+    },
+    {
+        "url": "http://ugradcalendar.uwaterloo.ca/courses/WKRPT",
+        "subject": "Work-term Report "
+    }
+]
