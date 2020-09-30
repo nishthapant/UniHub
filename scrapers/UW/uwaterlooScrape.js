@@ -1,7 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs') ;
-const config = require("./config");
+const config = require("../config");
 
 
 

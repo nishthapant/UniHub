@@ -1,0 +1,52 @@
+[
+    {
+        "title": "\n          ABP100Y1: Introduction to Academic Studies        ",
+        "url": "https://fas.calendar.utoronto.ca/course/abp100y1",
+        "subject": "Academic Bridging Program\n"
+    },
+    {
+        "title": "\n          ABP101Y1: Introduction to Academic Studies in the Sciences        ",
+        "url": "https://fas.calendar.utoronto.ca/course/abp101y1",
+        "subject": "Academic Bridging Program\n"
+    },
+    {
+        "title": "\n          ACT199H1: Decipher Financial Puzzles in the Media and Pop Culture        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act199h1",
+        "subject": "Actuarial Science, First-Year Foundations\n"
+    },
+    {
+        "title": "\n          ACT230H1: Mathematics of Finance for Non-Actuaries        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act230h1",
+        "subject": "Actuarial Science\n"
+    },
+    {
+        "title": "\n          ACT240H1: Mathematics of Investment & Credit        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act240h1",
+        "subject": "Actuarial Science\n"
+    },
+    {
+        "title": "\n          ACT245H1: Financial Principles for Actuarial Science I        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act245h1",
+        "subject": "Actuarial Science\n"
+    },
+    {
+        "title": "\n          ACT247H1: Introductory Life Contingencies        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act247h1",
+        "subject": "Actuarial Science\n"
+    },
+    {
+        "title": "\n          ACT348H1: Advanced Life Contingencies        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act348h1",
+        "subject": "Actuarial Science\n"
+    },
+    {
+        "title": "\n          ACT349H1: Corporate Finance for Actuarial Science        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act349h1",
+        "subject": "Actuarial Science\n"
+    },
+    {
+        "title": "\n          ACT350H1: Applied Probability for Actuarial Science        ",
+        "url": "https://fas.calendar.utoronto.ca/course/act350h1",
+        "subject": "Actuarial Science\n"
+    }
+]

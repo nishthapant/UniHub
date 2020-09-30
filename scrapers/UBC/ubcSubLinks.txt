@@ -1,0 +1,946 @@
+[
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=AANB",
+        "name": "Applied Animal Biology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ACAM",
+        "name": "Asian Canadian and Asian Migration Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ADHE",
+        "name": "Adult and Higher Education"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=AFST",
+        "name": "African Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=AGEC",
+        "name": "Agricultural Economics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ANAT",
+        "name": "Anatomy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ANTH",
+        "name": "Anthropology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=APBI",
+        "name": "Applied Biology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=APPP",
+        "name": "Applied Science Professional Program Platform"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=APSC",
+        "name": "Applied Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=AQUA",
+        "name": "Aquaculture"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ARBC",
+        "name": "Classical Arabic"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ARCH",
+        "name": "Architecture"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ARCL",
+        "name": "Anthropological Archaeology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ARST",
+        "name": "Archival Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ARTH",
+        "name": "Art History"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ARTS",
+        "name": "Arts One Program"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ASIA",
+        "name": "Asian Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ASIC",
+        "name": "Arts and Science Interdisciplinary Courses"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ASL",
+        "name": "American Sign Language"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ASTR",
+        "name": "Astronomy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ASTU",
+        "name": "Arts Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ATSC",
+        "name": "Atmospheric Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=AUDI",
+        "name": "Audiology and Speech Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BA",
+        "name": "Business Administration:  Core"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAAC",
+        "name": "Business Administration: Accounting"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BABS",
+        "name": "Business Administration: Business Statistics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAEN",
+        "name": "Business Administration: Entrepreneurship"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAFI",
+        "name": "Business Administration: Finance"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAHC",
+        "name": "Business Administration: Health Care"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAHR",
+        "name": "Business Administration: Human Resources Management"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAIT",
+        "name": "Business Administration: Business Technology Management"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BALA",
+        "name": "Business Administration: Law"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAMA",
+        "name": "Business Administration: Marketing"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAMS",
+        "name": "Business Administration: Management Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAPA",
+        "name": "Business Administration: Policy Analysis"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BASC",
+        "name": "Business Administration: Supply Chain"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BASM",
+        "name": "Business Administration: Strategic Management"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BAUL",
+        "name": "Business Administration: Urban Land Economics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BEST",
+        "name": "Forest Bioeconomy Sciences and Technology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BIOC",
+        "name": "Biochemistry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BIOF",
+        "name": "Bioinformatics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BIOL",
+        "name": "Biology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BIOT",
+        "name": "Biotechnology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BMEG",
+        "name": "Biomedical Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BOTA",
+        "name": "Botany"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BRDG",
+        "name": "Bridge Program"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=BUSI",
+        "name": "Business"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CAPS",
+        "name": "Cellular, Anatomical and Physiological Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CCFI",
+        "name": "Centre for Cross-Faculty Inquiry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CCST",
+        "name": "Critical and Curatorial Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CDST",
+        "name": "Canadian Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CEEN",
+        "name": "Clean Energy Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CELL",
+        "name": "Cell and Developmental Biology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CENS",
+        "name": "Central, Eastern and Northern European Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CHBE",
+        "name": "Chemical and Biological Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CHEM",
+        "name": "Chemistry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CHIL",
+        "name": "Children&apos;s Literature"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CHIN",
+        "name": "Chinese"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CIVL",
+        "name": "Civil Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CLST",
+        "name": "Classical Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CNPS",
+        "name": "Counselling Psychology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CNRS",
+        "name": "Classical, Near Eastern and Religious Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CNTO",
+        "name": "Cantonese"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=COEC",
+        "name": "Commerce Economics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=COGS",
+        "name": "Cognitive Systems Program"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=COHR",
+        "name": "Commerce Human Resources"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=COLX",
+        "name": "Computational Linguistics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=COMM",
+        "name": "Commerce"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=COMR",
+        "name": "Commerce Minor"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CONS",
+        "name": "Natural Resources Conservation"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CPEN",
+        "name": "Computer Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CPSC",
+        "name": "Computer Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CRWR",
+        "name": "Creative Writing"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CSIS",
+        "name": "Critical Studies in Sexuality"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CSPW",
+        "name": "Coordinated Science Program Workshop"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=CTLN",
+        "name": "Catalan"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=DANI",
+        "name": "Danish"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=DENT",
+        "name": "Dentistry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=DES",
+        "name": "Design"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=DHYG",
+        "name": "Dental Hygiene"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=DMED",
+        "name": "Digital Media"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=DSCI",
+        "name": "Data Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ECED",
+        "name": "Early Childhood Education"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ECON",
+        "name": "Economics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ECPS",
+        "name": "Educational &amp; Counselling Psychology, &amp; Special Education"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EDCP",
+        "name": "Curriculum and Pedagogy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EDST",
+        "name": "Educational Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EDUC",
+        "name": "Education"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EECE",
+        "name": "Electrical and Computer Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ELEC",
+        "name": "Electrical Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ELI",
+        "name": "English Language Institute"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ENDS",
+        "name": "Environmental Design"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ENGL",
+        "name": "English"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ENPH",
+        "name": "Engineering Physics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ENVE",
+        "name": "Environmental Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ENVR",
+        "name": "Environmental Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EOSC",
+        "name": "Earth and Ocean Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EPSE",
+        "name": "Educational Psychology and Special Education"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ETEC",
+        "name": "Educational Technology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EXCH",
+        "name": "Exchange Programs"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=EXGR",
+        "name": "Exchange Graduate Research"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FCOR",
+        "name": "Forestry Core"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FEBC",
+        "name": "Forest Engineering British Columbia"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FIPR",
+        "name": "Film Production"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FISH",
+        "name": "Fisheries Research"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FIST",
+        "name": "Film Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FMST",
+        "name": "Family Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FNEL",
+        "name": "First Nations and Endangered Languages Program"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FNH",
+        "name": "Food, Nutrition and Health"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FNIS",
+        "name": "First Nations and Indigenous Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FOOD",
+        "name": "Food Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FOPR",
+        "name": "Forest Operations"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FRE",
+        "name": "Food and Resource Economics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FREN",
+        "name": "French"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FRST",
+        "name": "Forestry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=FSCT",
+        "name": "Biochemistry and Forensic Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GBPR",
+        "name": "Green Bioproducts"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GEM",
+        "name": "Geomatics for Environmental Management"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GENE",
+        "name": "Genetics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GEOB",
+        "name": "Geographical Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GEOG",
+        "name": "Geography"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GERM",
+        "name": "German"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GREK",
+        "name": "Greek"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GRS",
+        "name": "Global Resource Systems"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GRSJ",
+        "name": "Gender, Race, Sexuality and Social Justice"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=GSAT",
+        "name": "Genome Science and Technology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=HEBR",
+        "name": "Hebrew"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=HGSE",
+        "name": "Haida Gwaii Semesters"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=HINU",
+        "name": "Hindi-Urdu"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=HIST",
+        "name": "History"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=HPB",
+        "name": "High Performance Buildings"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=HUNU",
+        "name": "Human Nutrition"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=IAR",
+        "name": "Institute of Asian Research"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=IGEN",
+        "name": "Integrated Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=INDS",
+        "name": "Interdisciplinary Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=INFO",
+        "name": "Information Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=INLB",
+        "name": "Indigenous Land-Based Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ISCI",
+        "name": "Integrated Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ITAL",
+        "name": "Italian"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ITST",
+        "name": "Italian Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=IWME",
+        "name": "Integrated Water Management Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=JAPN",
+        "name": "Japanese"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=JRNL",
+        "name": "Journalism"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=KIN",
+        "name": "Kinesiology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=KORN",
+        "name": "Korean"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LAIS",
+        "name": "Library, Archival and Information Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LARC",
+        "name": "Landscape Architecture"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LASO",
+        "name": "Law and Society"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LAST",
+        "name": "Latin American Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LATN",
+        "name": "Latin"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LAW",
+        "name": "Law"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LFS",
+        "name": "Land &amp; Food Systems"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LIBE",
+        "name": "Teacher Librarianship"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LIBR",
+        "name": "Library and Information Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LING",
+        "name": "Linguistics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LLED",
+        "name": "Language and Literacy Education"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=LWS",
+        "name": "Land and Water Systems"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MANU",
+        "name": "Manufacturing Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MATH",
+        "name": "Mathematics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MDVL",
+        "name": "Medieval Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MECH",
+        "name": "Mechanical Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MEDD",
+        "name": "Doctor of Medicine"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MEDG",
+        "name": "Medical Genetics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MEDI",
+        "name": "Medicine"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MES",
+        "name": "Middle East Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MICB",
+        "name": "Microbiology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MIDW",
+        "name": "Midwifery"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MINE",
+        "name": "Mining Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MRNE",
+        "name": "Marine Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MTRL",
+        "name": "Materials Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=MUSC",
+        "name": "Music"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=NAME",
+        "name": "Naval Architecture and Marine Engineering"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=NEST",
+        "name": "Near Eastern Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=NRSC",
+        "name": "Neuroscience"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=NURS",
+        "name": "Nursing"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=OBST",
+        "name": "Obstetrics and Gynaecology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ONCO",
+        "name": "Oncology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ORNT",
+        "name": "Orientation to Medical School"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ORPA",
+        "name": "Orthopaedics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=OSOT",
+        "name": "Occupational Science and Occupational Therapy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PATH",
+        "name": "Pathology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PCTH",
+        "name": "Pharmacology and Therapeutics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PERS",
+        "name": "Persian"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PHAR",
+        "name": "Pharmaceutical Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PHIL",
+        "name": "Philosophy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PHRM",
+        "name": "Pharmacy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PHTH",
+        "name": "Physical Therapy"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PHYL",
+        "name": "Cellular and Physiological Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PHYS",
+        "name": "Physics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PLAN",
+        "name": "Community and Regional Planning"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PLNT",
+        "name": "Plant Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=POLI",
+        "name": "Political Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=POLS",
+        "name": "Polish"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PORT",
+        "name": "Portuguese"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PPGA",
+        "name": "Public Policy and Global Affairs"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PSYC",
+        "name": "Psychology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PSYT",
+        "name": "Psychiatry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=PUNJ",
+        "name": "Punjabi"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RELG",
+        "name": "Religious Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RES",
+        "name": "Resources, Environment and Sustainability"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RGLA",
+        "name": "Religion, Literature and The Arts"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RGST",
+        "name": "Study of Religion"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RHSC",
+        "name": "Rehabilitation Sciences"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RMST",
+        "name": "Romance Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=RUSS",
+        "name": "Russian"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SANS",
+        "name": "Sanskrit"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SCAN",
+        "name": "Scandinavian"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SCIE",
+        "name": "Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SEAL",
+        "name": "Southeast Asian Languages"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SLAV",
+        "name": "Slavic Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SOCI",
+        "name": "Sociology"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SOIL",
+        "name": "Soil Science"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SOWK",
+        "name": "Social Work"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SPAN",
+        "name": "Spanish"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SPHA",
+        "name": "School of Population &amp; Public Health"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SPPH",
+        "name": "School of Population &amp; Public Health"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=STAT",
+        "name": "Statistics"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=STS",
+        "name": "Science and Technology Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SURG",
+        "name": "Surgery"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=SWED",
+        "name": "Swedish"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=TEST",
+        "name": "Test"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=THTR",
+        "name": "Theatre"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=TIBT",
+        "name": "Tibetan Languages"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=TRSC",
+        "name": "Transition School"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=UDES",
+        "name": "Urban Design"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=UFOR",
+        "name": "Urban Forestry"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=URST",
+        "name": "Urban Studies"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=URSY",
+        "name": "Urban Systems"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=VANT",
+        "name": "Vantage College"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=VGRD",
+        "name": "Visiting Graduate Student"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=VISA",
+        "name": "Visual Arts"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=VURS",
+        "name": "Visiting Undergraduate Research Students"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=WOOD",
+        "name": "Wood Products Processing"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=WRDS",
+        "name": "Arts Studies in Writing"
+    },
+    {
+        "url": "https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-department&dept=ZOOL",
+        "name": "Zoology"
+    }
+]

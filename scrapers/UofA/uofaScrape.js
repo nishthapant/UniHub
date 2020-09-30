@@ -1,7 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs') ;
-const config = require("./config");
+const config = require("../config");
 
 class uofaScrape {
 
@@ -46,7 +46,7 @@ class uofaScrape {
   }
 
   async run(){
-    let filePath = 'uofaLinks.txt';
+    let filePath = 'UofA/uofaLinks.txt';
     let urlList = fs.readFileSync(filePath);
     urlList = JSON.parse(urlList);
     urlList.map(async(url,idx) => {

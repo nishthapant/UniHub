@@ -1,0 +1,202 @@
+[
+    {
+        "title": "AAAA 100 ",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/aaaa-100",
+        "subject": "Student Services"
+    },
+    {
+        "title": "ACCT 351 Intermediate Financial Accounting 1 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-351",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 352 Intermediate Financial Accounting 2 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-352",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 354 Financial Statement Analysis (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-354",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 361 Management Accounting (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-361",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 362 Cost Accounting (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-362",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 385 Principles of Taxation (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-385",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 401 Sustainability and Environmental Accounting (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-401",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 434 Topics in Accounting 1 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-434",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 452 Financial Reporting Valuation (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-452",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 453 Advanced Financial Accounting (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-453",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 454 Financial Reporting (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-454",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 455 Development of Accounting Thought (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-455",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 463 Management Control (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-463",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 471 Non-Profit Accounting (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-471",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 475 Principles of Auditing (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-475",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 476 Internal Auditing (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-476",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 477 External Auditing (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-477",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 486 Business Taxation 2 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-486",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 604 Financial Statements 1 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-604",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 605 Financial Statements 2 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-605",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 618 Financial Reporting: Structure & Analysis (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-618",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 619 Financial Reporting: Valuation (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-619",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 622 Intermediate Financial Reporting 1 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-622",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 623 Intermediate Financial Reporting 2 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-623",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 624 Management Accounting: Planning & Control (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-624",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 625 Canadian Taxation (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-625",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 626 Data Analytics in Accounting (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-626",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 645D1 Financial Management in Healthcare (1 credit)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-645d1",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 645D2 Financial Management in Healthcare (1 credit)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-645d2",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 653 Issues in Professional Accounting 1 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-653",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 653D1 Issues in Professional Accounting 1 (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-653d1",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 653D2 Issues in Professional Accounting 1 (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-653d2",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 654 Issues in Professional Accounting 2 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-654",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 654D1 Issues in Professional Accounting 2 (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-654d1",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 654D2 Issues in Professional Accounting 2 (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-654d2",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 663 Strategic Aspects of Accounting 1 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-663",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 663D1 Strategic Aspects of Accounting 1 (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-663d1",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 663D2 Strategic Aspects of Accounting 1 (1.5 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-663d2",
+        "subject": "Management"
+    },
+    {
+        "title": "ACCT 664 Strategic Aspects of Accounting 2 (3 credits)",
+        "url": "https://www.mcgill.ca/study/2020-2021/courses/acct-664",
+        "subject": "Management"
+    }
+]
