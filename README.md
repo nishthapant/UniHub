@@ -1,4 +1,4 @@
-# PROJECT - findIt
+# PROJECT - UniHub
 
 ## The Idea:
 
